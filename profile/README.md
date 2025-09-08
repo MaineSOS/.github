@@ -1,4 +1,3 @@
-## [SOS-IS Wiki](https://github.com/MaineSOS/Wiki/wiki)
 
 
 <!--
